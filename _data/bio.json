@@ -2,38 +2,38 @@
   "basics": {
     "name": "El Mehdi El Khayati",
     "label": "Computer Engineering Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "../images/emek.jpg",
     "email": "elmehdi.elkhayati@gmail.com",
     "phone": "+212625335814",
     "website": "https://kaygi22.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "11000",
+      "city": "Sala el Jadida",
+      "countryCode": "MA",
+      "region": "Africa"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/kaygi22"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/elmehdielkhayati"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/mehdi_khayati"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/elmehdi.elkhayati"
       }
     ]
   },
