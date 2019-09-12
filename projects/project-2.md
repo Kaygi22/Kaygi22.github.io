@@ -11,10 +11,10 @@ labels:
   - Laravel
   - MySQL
   - JavaScript
-summary: A web project for scrapping, analyzing, .
+summary: A web project for gathering Moroccan's dialect words polarity and sentiments - the first one in Morocco.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/OpenDarijaCover.png">
+<img class="ui medium" src="../images/OpenDarijaCover.png">
 
 
 
