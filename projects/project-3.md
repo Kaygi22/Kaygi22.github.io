@@ -1,61 +1,43 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/sm-analyzer.png
+title: Moroccan Social Media Analyzer
+permalink: projects/MSM-Analyser
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-06-23
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - NLP
+  - Sentimental Analysis
+  - Data Scrapping
+  - Java
+  - Python
+  - MongoDB
+  - Selenium
+  - Spring Rest
+  - ReactJS
+  - Data Visualization
+summary: A web engine for scrapping Moroccan social media public data, analyzing, classifying and displaying results.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project is our final year project in our 4th year in school (2nd year of engineering cycle). In fact, open darija was the founded because of this project, since we wanted to be creative in our project, we chose to work on Moroccan's Dialect NLP since it was the first of its kind in Morocco.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The project was to create a web application that is help you to scrape a social media public data, analyse it and classifying the content in order to display it to the user. The project was not commercial, it was a search project, so we displayed the results of the project in a defense in front of jury.
 
-<hr>
+The project is composed with 5 parts:
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+* Front website for data visualisaton: The front website was developed using ReactJS and ChartJS for vizualising data. The front was connected to the back end with a Rest API that was developed using Rest API. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+* BackEnd Core: this was the core of the application, it contains the TADM (traitement automatique du dialecte marocaine) / NLP algorithms that we developed using JAVA, Scrapping engine that scrape social media data, DB engine that executes queries to mongoDB and save/get data and SpringRest engine that ensure the communication.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+* Scrapper engine: In fact, this scrapper was open sourced, so we've modified in order to adapt it to our needs. 
 
-pickup candle
-- you are now carrying the candle -
+* Open Darija: this was a previous presented project in my portfolio. It's the dictionary that helps us to provide a sentimental analysis for the analysed data.
 
-pickup match
-- you are now carrying the match -
 
-light match candle
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
