@@ -6,7 +6,7 @@
     "email": "elmehdi.elkhayati@gmail.com",
     "phone": "+212625335814",
     "website": "https://kaygi22.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "El Mehdi El Khayati, He is a a computer engineering student tireless seeker of knowledge. He is passionate about turning knowledge into action. He loves spending time on problem solving, working on creative projects and sometimes sharing his knowledge. He likes working in a team, you will learn faster and much more. As the saying goes: 'two heads are better than one'. ",
     "location": {
       "address": "",
       "postalCode": "11000",
@@ -26,11 +26,6 @@
         "url": "http://linkedin.com/in/elmehdielkhayati"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/mehdi_khayati"
-      },
-      {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/elmehdi.elkhayati"
@@ -39,19 +34,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Algorithms",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Data Structures"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Business Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Science",
       "keywords": [
       ]
     }
