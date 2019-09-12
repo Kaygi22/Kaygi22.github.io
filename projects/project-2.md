@@ -21,4 +21,6 @@ A back-end admin dashboard that provide adding words to the factory (words displ
 Currently the system is in it's 1.0.3 version.
 This project is open source. 
 Project was a founded by my colleague  <a href="https://github.com/Touza"><i class="large github icon"></i>Touza</a> and me. 
- 
+
+Check facebook page content: <a href="https://www.facebook.com/opendarija/"><i class="large facebook icon">
+Open Darija GitHub page: <a href="https://github.com/Open-darija"><i class="large github icon"> 
