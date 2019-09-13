@@ -5,7 +5,7 @@ image: images/slacklogo.png
 title: JS Slack Chatbot
 permalink: projects/js-slack-chatbot
 # All dates must be YYYY-MM-DD format!
-date: 2017-08-05
+date: 2019-07-12
 labels:
   - Javascript
   - Slack-bot-api
