@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "Internships": [
+  "work": [
     {
       "company": "DarEat",
       "position": "React Native Mobile Developer",
@@ -165,7 +165,7 @@
       ]
     }
   ],
-  "Competitive Programming Competitions": [
+  "awards": [
     {
       "title": "Google HashCode",
       "date": "2018",
