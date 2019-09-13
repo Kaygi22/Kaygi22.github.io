@@ -19,7 +19,7 @@ The projects was stopped in December in 2017. Even though the project failed, it
 
 This project was the first of its kind in the arabic web content.
 
-
+ <a href="https://www.facebook.com/arlifehacks/"><i class="large facebook icon"> </i>  facebook page </a>
 
 <img class="ui image" src="../images/image1.png">
 
