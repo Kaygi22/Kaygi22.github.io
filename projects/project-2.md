@@ -14,7 +14,7 @@ labels:
 summary: A web project for gathering Moroccan's dialect words polarity and sentiments - the first one in Morocco.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/OpenDarijaCover.png">
+<img class="ui image" src="../images/OpenDarijaCover.png">
 
 
 

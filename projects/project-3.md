@@ -20,11 +20,13 @@ labels:
 summary: A web engine for scrapping Moroccan social media public data, analyzing, classifying and displaying results.
 ---
 
-<img class="ui image" src="../images/cotton-header.png">
+<img class="ui image" src="../images/pfa_architecture.jpg">
 
 This project is our final year project in our 4th year in school (2nd year of engineering cycle). In fact, open darija was the founded because of this project, since we wanted to be creative in our project, we chose to work on Moroccan's Dialect NLP since it was the first of its kind in Morocco.
 
 The project was to create a web application that is help you to scrape a social media public data, analyse it and classifying the content in order to display it to the user. The project was not commercial, it was a search project, so we displayed the results of the project in a defense in front of jury.
+
+<img class="ui image" src="../images/f-analyzer.png">
 
 The project is composed with 5 parts:
 
