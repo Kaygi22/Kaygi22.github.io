@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sm-analyzer.png
+image: images/f-analyzer.png
 title: Moroccan Social Media Analyzer
 permalink: projects/MSM-Analyser
 # All dates must be YYYY-MM-DD format!
@@ -37,9 +37,4 @@ The project is composed with 5 parts:
 * Scrapper engine: In fact, this scrapper was open sourced, so we've modified in order to adapt it to our needs. 
 
 * Open Darija: this was a previous presented project in my portfolio. It's the dictionary that helps us to provide a sentimental analysis for the analysed data.
-
-
-
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
