@@ -5,7 +5,7 @@ image: images/java-home.png
 title: School clubs manager
 permalink: projects/scm
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-15
+date: 2019-12-15
 labels:
   - Struts 2
   - Spring
