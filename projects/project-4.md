@@ -22,4 +22,6 @@ EHM is an application that was developed from scratch for the human resources de
 
 <img class="ui image" src="../images/2.png">
 
+<img class="ui image" src="../images/4.png">
+
 <img class="ui image" src="../images/5.png">
