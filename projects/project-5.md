@@ -23,4 +23,3 @@ This project was academic, where the mission was to develop a Web JAVA EE app fo
 <img class="ui image" src="../images/java-1.png">
 
 <img class="ui image" src="../images/java-2.png">
-
