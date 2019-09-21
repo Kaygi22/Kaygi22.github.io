@@ -18,6 +18,11 @@ This was a beginner project while I've been learning ReactJS. The project is a s
 
 The project was built using React 16.8, axios and firebase.
 
+<a href="https://github.com/Kaygi22/React-apps/tree/master/burger-app
+"><i class="large github icon"> </i> Check source code </a>
+
 <img class="ui image" src="../images/burgerBuilder.png">
 
 <img class="ui image" src="../images/burgerBuilder 2.png">
+
+
