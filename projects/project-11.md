@@ -5,7 +5,7 @@ image: images/LR_Chart.png
 title: Boston house prices predictions 
 permalink: projects/weather-app
 # All dates must be YYYY-MM-DD format!
-date: 2019-03-15
+date: 2019-07-10
 labels:
   - Multivar Linear Regression
   - Matplotlib
