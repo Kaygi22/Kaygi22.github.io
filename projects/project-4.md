@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ehm.png
 title: EHM - HUman Resources Platform
-permalink: projects/blockchain
+permalink: projects/ehm
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-15
 labels:

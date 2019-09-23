@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/LR_Chart.png
 title: Boston house prices predictions 
-permalink: projects/weather-app
+permalink: projects/house-prediction
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-10
 labels:

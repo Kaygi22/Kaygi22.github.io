@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/burgerBuilder.png
 title: Burger Builder
-permalink: projects/scm
+permalink: projects/burger-builder
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-12
 labels:
