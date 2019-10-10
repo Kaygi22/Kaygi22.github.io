@@ -27,8 +27,3 @@ You can check all the steps in my notebook uploaded on gitlab.
 <img class="ui image" src="../images/LR_Chart.png">
 <img class="ui image" src="../images/LR_Chart_2.png">
 
-
-
-
-
-

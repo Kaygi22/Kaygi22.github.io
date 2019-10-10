@@ -14,9 +14,7 @@ summary: A simple JavaScript Blockchain Based on sha256 cryptographic hash funct
 ---
 
 
-I was always curious about block chain technologies, so I decided today to go throw it and set up a small black chain for simple data, and the create a simple cryptocurrency app based on mining transactions between addresses in order to win some rewards.
-
-On the other hand, there is a simple secured blockchain folder, which contain my block chain source code. It based on proof-of-work security method.
+I was always curious about block chain technologies, so I decided to go throw it and set up a small blockchain for simple data, and then create a simple cryptocurrency app based on mining transactions between addresses in order to win some rewards.
 
 I tried to explain every single method and step by commenting my code.
 

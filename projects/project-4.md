@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ehm.png
-title: EHM - HUman Resources Platform
+title: EHM - Human Resources Platform
 permalink: projects/ehm
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-15
@@ -12,7 +12,7 @@ labels:
   - PHP
   - Linux Cron
   - MySQL
-summary: An HR platform developed to facilitate managing employees leaves and timesheets.
+summary: A HR platform developed to facilitate managing employees leaves and timesheets.
 ---
 
 
